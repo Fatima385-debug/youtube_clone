@@ -31,9 +31,12 @@ const Navbar = ({setSidebar}) => {
                 {/* <img src={upload_icon} alt=''/>
                 <img src={more_icon} alt=''/> */}
                 <img src={notification_icon} alt=''/>
-                <img src={profile_icon} className='user-icon' alt=''/>
+                <Link to="/profile">
+  <img src={profile_icon} className="profile-img" alt="Profile" />
+</Link>
             </div>
         </nav>
     )
 }
+
 export default Navbar

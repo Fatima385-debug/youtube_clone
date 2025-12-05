@@ -96,4 +96,12 @@ nav {
 
 .nav-right .user-icon:hover {
     box-shadow: 0 4px 12px rgba(213, 6, 203, 0.4);
+
+}
+.profile-img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 2px solid #00cbf8;
+    transition: all 0.3s ease;
 }

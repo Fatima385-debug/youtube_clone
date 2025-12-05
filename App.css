@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  background-color: #111;
+  font-family: Arial, sans-serif;
+  color: white;
+}
+
+.app-container {
+  display: flex;
+  height: 100vh;
+}

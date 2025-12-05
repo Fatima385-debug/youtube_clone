@@ -1,0 +1,10 @@
+.container{
+        background: linear-gradient(135deg, #f9a6da, #ffd386);
+    padding-left: 17%;
+    padding-top: 20px;
+    padding-right: 2%;
+    padding-bottom: 20px;
+}
+.large-container{
+    padding-left: 7%;
+}
